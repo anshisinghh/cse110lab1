@@ -9,7 +9,7 @@ I would love to connect with you! [Jump to Connect](#connect-with-me)
 
 ``` print("Hello, World!") ```
 
-![Headshot](headshot.png "Anshi's Headshot")
+![Headshot](headshot.png)
 
 ## Skills
 1. Python
