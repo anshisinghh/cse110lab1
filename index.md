@@ -1,4 +1,4 @@
-# Anshi's User Page
+# Anshi Singh
 
 ## Introduction
 Hi I'm ***Anshi***! I am a Computer Science student at UC San Diego, with an expected graduation date of **June 2025**. I am passionate about programming and both full-stack and back-end development, with experiences in mobile app development. I have done extensive coursework in data structures, algorithms, and programming in Python and C++. I will be interning at CoStar Group this summer as a Software Engineering Intern with Homes.com. _I am super excited for this class!_
