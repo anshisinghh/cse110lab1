@@ -2,4 +2,4 @@
 
 My favorite programming language is Python!
 
-Github Page: https://anshisinghh.github.io/cse110lab1/index
+Github Page: https://anshisinghh.github.io/cse110lab1/
